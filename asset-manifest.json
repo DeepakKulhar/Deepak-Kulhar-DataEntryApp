@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/Deepak-Kulhar-DataEntryApp/static/js/main.ff16bde1.js",
+    "static/js/239.bbc076ce.chunk.js": "/Deepak-Kulhar-DataEntryApp/static/js/239.bbc076ce.chunk.js",
+    "static/js/977.17aeefd7.chunk.js": "/Deepak-Kulhar-DataEntryApp/static/js/977.17aeefd7.chunk.js",
+    "static/js/455.841195af.chunk.js": "/Deepak-Kulhar-DataEntryApp/static/js/455.841195af.chunk.js",
+    "index.html": "/Deepak-Kulhar-DataEntryApp/index.html",
+    "main.ff16bde1.js.map": "/Deepak-Kulhar-DataEntryApp/static/js/main.ff16bde1.js.map",
+    "239.bbc076ce.chunk.js.map": "/Deepak-Kulhar-DataEntryApp/static/js/239.bbc076ce.chunk.js.map",
+    "977.17aeefd7.chunk.js.map": "/Deepak-Kulhar-DataEntryApp/static/js/977.17aeefd7.chunk.js.map",
+    "455.841195af.chunk.js.map": "/Deepak-Kulhar-DataEntryApp/static/js/455.841195af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ff16bde1.js"
+  ]
+}
