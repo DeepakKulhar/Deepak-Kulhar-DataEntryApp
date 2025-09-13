@@ -1,7 +1,7 @@
-"homepage": "https://DeepakKulhar.github.io/Deepak-Kulhar-DataEntryApp",
 {
   "name": "react",
   "version": "1.0.0",
+  "homepage": "https://DeepakKulhar.github.io/Deepak-Kulhar-DataEntryApp",
   "description": "",
   "keywords": [],
   "main": "src/index.tsx",
